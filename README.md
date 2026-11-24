@@ -21,7 +21,6 @@ The project also explores techniques commonly discussed in malware analysis and 
 The main focus is evaluating how AV/EDR solutions detect suspicious DLL loading and execution behavior.
 
 The research examines:
-
 - DLL Sideloading detection.
 - Static versus behavioral detection.
 - Security telemetry generated during execution.
