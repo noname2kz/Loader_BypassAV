@@ -28,7 +28,7 @@ The research examines:
 
 The demonstration illustrates the DLL loading process and the AV/EDR detection results observed during controlled testing.
 
-![Figure 1. Python DLL Sideloading demonstration](https://github.com/noname2kz/Loader_BypassAV/tree/main/assets/bypassAV.gif)
+[Figure 1. Python DLL Sideloading demonstration](https://github.com/noname2kz/Loader_BypassAV/blob/main/assets/bypassAV.gif)
 
 Payload Encryption:
 
