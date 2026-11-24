@@ -11,9 +11,9 @@ The project also explores techniques commonly discussed in malware analysis and 
 ## Technical Concepts
 
 - **DLL Sideloading:** Exploiting DLL loading behavior to make a legitimate application load an unintended DLL.
+- **Download Shellcode From URL:** Download shellcode from a remote URL to avoid storing hardcoded shellcode on disk."
 - **Payload Encryption:** Exploring XOR and AES encryption to protect payload data at rest.
 - **Anti-Debugging:** Studying techniques used to detect debugger presence.
-- **Anti-Sandbox:** Researching methods used to identify automated analysis environments.
 - **Sleep Evasion:** Investigating execution delays and their impact on behavioral monitoring.
 
 ## AV/EDR Research
@@ -31,7 +31,16 @@ The research examines:
 
 The demonstration illustrates the DLL loading process and the AV/EDR detection results observed during controlled testing.
 
-![Figure 1. Python DLL Sideloading demonstration](assets/demo.gif)
+![Figure 1. Python DLL Sideloading demonstration](https://github.com/noname2kz/Loader_BypassAV/tree/main/assets/bypassAV.gif)
+
+Payload Encryption:
+
+![Payload Encryption](https://github.com/noname2kz/Loader_BypassAV/blob/main/assets/encrypt.png)
+
+Anti-Debug Demonstration
+
+![Payload Encryption](https://github.com/noname2kz/Loader_BypassAV/blob/main/assets/anti_debug.png)
+
 
 ## Source Code
 
