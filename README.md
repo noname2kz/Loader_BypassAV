@@ -34,7 +34,7 @@ Payload Encryption:
 
 ![Payload Encryption](https://github.com/noname2kz/Loader_BypassAV/blob/main/assets/encrypt.png)
 
-Anti-Debug Demonstration
+Anti-Debug Demonstration:
 
 ![Payload Encryption](https://github.com/noname2kz/Loader_BypassAV/blob/main/assets/anti_debug.png)
 
